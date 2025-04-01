@@ -24,7 +24,7 @@ const profileData: ProfileData = {
   majorMinor: "B.A. in Economics & Mathematics, Minor in Computer Science",
   websiteHref: "https://github.com/wderocco8",
   imgSrc: "/images/profile/profile.jpeg",
-  currentPosition: "Teaching Assistant for cs412 (Full-Stack Applications)"
+  currentPosition: "Member of MUN@BU Cut Team"
 };
 
 /**
